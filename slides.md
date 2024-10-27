@@ -166,6 +166,9 @@ layout: statement
 
 # Jesus's perspective on Torah takes into account the eschatological moment.
 
+## Matt 12:18: “‘Here is my servant, whom I have chosen...’”
+## Mk 2:19: “‘The wedding guests cannot fast while the bridegroom is with them, can they?’”
+
 ---
 layout: statement
 ---
@@ -178,6 +181,17 @@ layout: statement
     * We see this in the next pericope, where Jesus heals on the Sabbath.
     * Does the fact that Jesus permitted grainpicking and healed one person on the Sabbath justify ongoing Sabbath violation or a wholesale alteration of biblical law?
         * I don't think so.
+* We also don't have a "lax" Jesus set against the "strict" Pharisees.
+    * Jesus is not advocating for a more lenient interpretation of the Sabbath.
+    * Rather, Jesus is handling the Sabbath in light of other, eschatological concerns.
+        * "Mercy not sacrifice" is commonly use to set observance of biblical law against the love command or some other conception of ethical/non-ritual behavior.
+        * "Mercy" hardly seems an appropriate description of the disciples' grainpicking.
+        * However, (as Paul Sloan points out) "mercy" in Hosea indicates *restoration*; Hosea's answer to the question "how shall we return?" is "with mercy," i.e., with God's restoration.
+* Jesus himself does not provide a clear basis for Christian modification of the Sabbath.
+    * It's also not clear that Christians are to observe the Sabbath to begin with; Sabbath is not a part of the Noahide covenant and isn't referenced in Acts 15.
+        * Given that the Sabbath is frequently discussed in terms of a covenantal sign between God and the nation of Israel, this might make sense.
+    * Christian Sabbath observance is a theological/doctrinal development rather than a direct 1:1 following of biblical law.
+    * The Christian Sabbath follows the creational pattern of work/rest but also follows the trajectory of Hebrews by pointing to the resurrection as the source of eschatological rest.
 -->
 
 ---
